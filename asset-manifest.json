@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Intro-section-with-dropdown-navigation/static/css/main.d2c0a9e2.css",
+    "main.js": "/Intro-section-with-dropdown-navigation/static/js/main.0dcaab67.js",
+    "index.html": "/Intro-section-with-dropdown-navigation/index.html",
+    "main.d2c0a9e2.css.map": "/Intro-section-with-dropdown-navigation/static/css/main.d2c0a9e2.css.map",
+    "main.0dcaab67.js.map": "/Intro-section-with-dropdown-navigation/static/js/main.0dcaab67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c0a9e2.css",
+    "static/js/main.0dcaab67.js"
+  ]
+}
